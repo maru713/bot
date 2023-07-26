@@ -1,1 +1,3 @@
 # bot
+クラッシュロワイヤルのデッキを自動でランダム生成するdiscordbot
+Legacy
